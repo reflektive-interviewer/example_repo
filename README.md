@@ -1,2 +1,3 @@
 # example_repo
-An example!
+
+An example application!
